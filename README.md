@@ -1,2 +1,2 @@
-# Game-of-Life
+# game-of-Life
 a game of life in java
